@@ -4,3 +4,4 @@ This is an assortment of basic programs written in C. (Computer Architecture Fal
 # Note:
 If on Windows, before cloning, run `git config --global core.autocrlf input` on git.
 The program was created to run on Unix based systems!
+After finishing, to reset back to normal on Windows, run `git config --global core.autocrlf true` on git.
